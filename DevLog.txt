@@ -1,0 +1,7 @@
+1.创建基本的Sandbox场景。
+1).创建简单地形，创建Paint Layer。
+2).添加房屋和树木Prefab丰富场景元素。
+3).生成场景的Nav Mesh。
+4).为Playter添加Camera和Nav Mesh Agent组件。
+
+使用自定义PropertyAttribute来更改变量在Inspector中的显示名。
